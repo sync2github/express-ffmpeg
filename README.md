@@ -1,5 +1,5 @@
 # 自带 CMS 系统的云转码系统，一体化自动发布云转码 cms 系统
-经过我的调试，windows和linux都完美运行，甚至windows运行速度还要快些。
+不建议使用windows安装系统。
 
 ## 社区
 官方合作社区:[合作社区](https://www.iqi360.com/category/5c386b74467870259b23b2e4)
@@ -46,13 +46,12 @@
 
 ##### 演示链接：
 
-- 高级cms: [高级CMS应用](https://bai.moe)
+- 高级cms演示请联系bted2k@gmail.com
 - cdn 处理演示：
 - 原图片：https://www.moejj.com/videos/5bc721ef87af60065e31735e/1.jpg 1280\*720
 - cdn 处理图片：https://cdn.moejj.com/poster/videos/5bc721ef87af60065e31735e/1.jpg 400\*300jpg 质量 90%
 - APP 正式上线，安卓测试版本下载地址：https://share.weiyun.com/5IDKG3V
 - app 演示视频：https://www.moejj.com/movie/5bd48a7e46321d4473b857e3
-- windows傻瓜安装程序：https://www.iqi360.com/topic/5c3f10c4073ecf353edefefc 由QQ号为1119282308网友制作，需要收取一定费用。
 - linux通用ubuntu16.04+，centos7，Debian 8+一键傻瓜安装脚本地址：https://www.iqi360.com/topic/5c431edf46eeb073833e356c 由萌鼠博客https://www.moerats.com  博主制作，收取少量脚本编写费用，支持萌鼠博客运营，支持正版。
 
 ##### 说明
