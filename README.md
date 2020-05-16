@@ -6,11 +6,12 @@
 承接cms开发,云转码定制,app开发对接,如果有需要可以发送需求到邮箱bted2k@gmail.com。
 
 ## 公告申明
-开源版为开发中产品，很多功能并不稳定，仅供测试学习，如果需要正式运营，建议使用**超级纯净版theone ffmpeg视频转码切片系统，企业级框架egg.js编写完成:** [theone ffmpeg](https://www.iqi360.com/topic/5c81375cac599a7c35b49e03) 或者 **高级版，可对接高级版APP，多码率，高级试看，超级防盗链，高级CMS等功能：**[高级云转码更新](https://www.iqi360.com/topic/5c53f9e8ac599a7c35b49d7c)。
+开源版为开发中产品，很多功能并不稳定，仅供测试学习，如果需要正式运营，建议使用**超级纯净版theone ffmpeg视频转码切片系统，企业级框架egg.js编写完成:** [theone ffmpeg](https://www.moemv.com/update/post/theoneffmpeg) 或者 **高级版，可对接高级版APP，多码率，高级试看，超级防盗链，高级CMS等功能：**[高级云转码更新](https://express-ffmpeg-vip.moejj.com)。
 - 对接源码的原生在线视频app，安卓版本：链接:https://pan.baidu.com/s/1XhTVdlrPPM4nTushlkXx2g 密码:3ob3 ，欢迎测试。
 - IOS本人无企业证书，无法构建绕过app store的ios应用程序，如果谁有企业证书可以联系我。
 
 ## 新官网上线：[https://www.moemv.com](https://www.moemv.com)
+## EFV智能云转码：[https://express-ffmpeg-vip.moejj.com](https://express-ffmpeg-vip.moejj.com)
 
 ## 开发计划
 我想象中的云转码应该是一个总控系统，后台可以无限的添加转码机器，最终将是一个无限扩容的云转码，一个真正的云转码，所以现在我正在做一个这么个东西，后台可以无限添加转码机器，并且一个总控控制所有机器，所有转码内容集成在总控中，配合总控的高级CMS，配合用户上传，甚至可以做出来真正的网盘系统。有兴趣可以联系我，给与意见或者预约。
