@@ -1,19 +1,25 @@
 # 自带 CMS 系统的云转码系统，一体化自动发布云转码 cms 系统
 
-## 社区
-官方合作社区:[合作社区](https://www.iqi360.com/category/5c386b74467870259b23b2e4)
-大量ffmpeg尖端技术分享，集群转码，多线程转码，使用窍门，有问题可以在社区提问，别在码云里边提问了。
-承接cms开发,云转码定制,app开发对接,如果有需要可以发送需求到邮箱bted2k@gmail.com。
+### 官网：
+- 开源版官网：https://ffmpeg.moejj.com
+- moeapp: https://www.moemv.com
+- EFV国际版：https://www.efvcms.com
+- EFV高级版：https://express-ffmpeg-vip.moejj.com
 
-## 公告申明
+### 开发计划
+
+转向智能分布式云转码，一体化构建全端（ios/android/mac/linux/win/web)全平台应用，在线视频、在线教育综合解决方案，efv专用APP已出。
+
+### 合作伙伴
+
+[![cdnbye](https://images.gitee.com/uploads/images/2020/0615/130135_14aed41a_145248.jpeg "cdnbye")](https://www.cdnbye.com/)
+
+### 公告申明
 开源版为开发中产品，很多功能并不稳定，仅供测试学习，如果需要正式运营，建议使用**超级纯净版theone ffmpeg视频转码切片系统，企业级框架egg.js编写完成:** [theone ffmpeg](https://www.moemv.com/update/post/theoneffmpeg) 或者 **高级版，可对接高级版APP，多码率，高级试看，超级防盗链，高级CMS等功能：**[高级云转码更新](https://express-ffmpeg-vip.moejj.com)。
 - 对接源码的原生在线视频app，安卓版本：链接:https://pan.baidu.com/s/1XhTVdlrPPM4nTushlkXx2g 密码:3ob3 ，欢迎测试。
 - IOS本人无企业证书，无法构建绕过app store的ios应用程序，如果谁有企业证书可以联系我。
 
-## 新官网上线：[https://www.moemv.com](https://www.moemv.com)
-## EFV智能云转码：[https://express-ffmpeg-vip.moejj.com](https://express-ffmpeg-vip.moejj.com)
-
-## 开发计划
+### 开发计划
 我想象中的云转码应该是一个总控系统，后台可以无限的添加转码机器，最终将是一个无限扩容的云转码，一个真正的云转码，所以现在我正在做一个这么个东西，后台可以无限添加转码机器，并且一个总控控制所有机器，所有转码内容集成在总控中，配合总控的高级CMS，配合用户上传，甚至可以做出来真正的网盘系统。有兴趣可以联系我，给与意见或者预约。
 - **多媒体网盘转码系统+云转码总控系统** 讨论和建议、预约等：[总控系统开发进度](https://www.iqi360.com/topic/5c45a35b46eeb073833e357d)
 - **超级纯净版theone ffmpeg视频转码切片系统，企业级框架egg.js编写完成:** [theone ffmpeg](https://www.iqi360.com/topic/5c81375cac599a7c35b49e03)
